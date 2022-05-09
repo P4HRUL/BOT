@@ -1,1 +1,8 @@
-print ("the script is being updated ...")
+import os
+
+
+def pahrul():
+	os.chdir('data')
+	os.system('python ingfo.py')
+	
+pahrul()
