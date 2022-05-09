@@ -1,1 +1,1 @@
-print ("script update ...")
+print ("the script is being updated ...")
