@@ -8,5 +8,6 @@
 ➠pip install mechanize
 ➠git clone https://github.com/P4HRUL/BOT
 ➠cd BOT
+➠git pull
 ➠python BOT.py
 ```
